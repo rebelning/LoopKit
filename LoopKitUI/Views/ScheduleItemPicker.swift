@@ -30,10 +30,16 @@ struct ScheduleItemPicker<Value, ValuePicker: View>: View {
             HStack {
                 Spacer()
                 HStack(spacing: 0) {
+//                    TimePicker(
+//                        offsetFromMidnight: self.$item.startTime,
+//                        bounds: 0...TimeInterval(hours: 23.5),
+//                        stride: .hours(0.5),
+//                        isTimeExcluded: { !self.isTimeSelectable($0) }
+//                    )
                     TimePicker(
                         offsetFromMidnight: self.$item.startTime,
-                        bounds: 0...TimeInterval(hours: 23.5),
-                        stride: .hours(0.5),
+                        bounds: 0...TimeInterval(hours: 23),
+                        stride: .hours(1),
                         isTimeExcluded: { !self.isTimeSelectable($0) }
                     )
                     .frame(width: geometry.size.width / 3)

@@ -307,6 +307,29 @@ struct ScheduleEditor<Value: Equatable, ValueContent: View, ValuePicker: View, A
         return true
     }
 
+//    private var initialNewScheduleItem: RepeatingScheduleValue<Value> {
+//        assert(scheduleItems.count <= scheduleItemLimit)
+//
+//        if scheduleItems.isEmpty {
+//            return RepeatingScheduleValue(startTime: .hours(0), value: defaultFirstScheduleItemValue)
+//        }
+//
+//        if scheduleItems.last!.startTime == .hours(23.5) {
+//            let firstItemFollowedByOpening = scheduleItems.adjacentPairs().first(where: { item, next in
+//                next.startTime - item.startTime > .minutes(30)
+//            })!.0
+//            return RepeatingScheduleValue(
+//                startTime: firstItemFollowedByOpening.startTime + .minutes(30),
+//                value: firstItemFollowedByOpening.value
+//            )
+//        } else {
+//            return RepeatingScheduleValue(
+//                startTime: scheduleItems.last!.startTime + .minutes(30),
+//                value: scheduleItems.last!.value
+//            )
+//        }
+//    }
+    //new schedule 
     private var initialNewScheduleItem: RepeatingScheduleValue<Value> {
         assert(scheduleItems.count <= scheduleItemLimit)
 
@@ -314,17 +337,17 @@ struct ScheduleEditor<Value: Equatable, ValueContent: View, ValuePicker: View, A
             return RepeatingScheduleValue(startTime: .hours(0), value: defaultFirstScheduleItemValue)
         }
 
-        if scheduleItems.last!.startTime == .hours(23.5) {
+        if scheduleItems.last!.startTime == .hours(23) {
             let firstItemFollowedByOpening = scheduleItems.adjacentPairs().first(where: { item, next in
-                next.startTime - item.startTime > .minutes(30)
+                next.startTime - item.startTime > .hours(1)
             })!.0
             return RepeatingScheduleValue(
-                startTime: firstItemFollowedByOpening.startTime + .minutes(30),
+                startTime: firstItemFollowedByOpening.startTime + .hours(1),
                 value: firstItemFollowedByOpening.value
             )
         } else {
             return RepeatingScheduleValue(
-                startTime: scheduleItems.last!.startTime + .minutes(30),
+                startTime: scheduleItems.last!.startTime + .hours(1),
                 value: scheduleItems.last!.value
             )
         }
