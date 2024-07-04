@@ -94,6 +94,10 @@
 /* Button title to delete all objects */
 "Delete All" = "删除所有";
 
+
+/* Delete values for Pre-Meal, inactivates Pre-Meal icon*/
+"Delete" = "删除";
+
 /* Title text for crossed thresholds guardrail warning */
 "Delivery Limits" = "输注限制";
 
@@ -255,4 +259,190 @@
 
 /* Title for the workout override range */
 "Workout" = "锻炼/运动模式";
+
+/* Therapy Settings screen title */
+"Therapy Settings" = "治疗设置";
+
+/* Title text for glucose safety limit */
+"Glucose Safety Limit" = "血糖安全限制";
+
+/* Information about target range */
+"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "如果您以前使用过CGM，您可能熟悉目标范围，这是您希望血糖通知警报达到的一系列数值，例如70-180 mg/dL或90-200 mg/dL。";
+
+/* Information about differences between target range and correction range */
+"A Correction Range is different. This will be a narrower range." = "修正范围是不同的，这将是一个更窄的范围。";
+
+/* Information about correction range format (1: app name) */
+"For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." = "对于这个范围，请选择您希望 %1$@ 在调整基础胰岛素时达到的具体血糖值（或数值范围）。";
+
+/* Disclaimer */
+"Your healthcare provider can help you choose a Correction Range that's right for you." = "您的医疗提供者可以帮助您选择适合您的校正范围。";
+
+/* Guardrail info text format */
+"It can be set as low as %1$@. It can be set as high as %2$@." = "它可以设置为最低 %1$@。它可以设置为最高 %2$@。";
+
+/* Information about pre-meal range format (1: app name) */
+"Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button." = "您的餐前范围应该是您希望 %1$@ 在您吃第一口饭时达到的血糖值（或数值范围）。此范围将在您激活餐前预设按钮时生效。";
+
+/* Information about pre-meal range relative to correction range
+   Information about workout range relative to correction range */
+"This will typically be" = "这通常是";
+
+/* Information about pre-meal range relative to correction range */
+"than your Correction Range." = "比您的校正范围更低。";
+
+
+/* Information about pre-meal range relative to correction range */
+" lower " = "较低";
+
+/* Information about workout range relative to correction range */
+" higher " = "较高";
+
+/* Lower bound pre-meal information text */
+"your Glucose Safety Limit" = "您的血糖安全限制";
+
+/* Descriptive text for pre-meal correction range override */
+"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "在饭前临时降低您的血糖目标，以影响饭后的血糖峰值。";
+
+
+/* Title text for multi-value pre-meal value warning */
+"Pre-Meal Values" = "餐前数值";
+
+
+/* Title text for multi-value workout value warning */
+"Workout Values" = "运动数值";
+
+/* Title text for the low insulin sensitivity warning */
+"Low Insulin Sensitivity" = "低胰岛素敏感性";
+
+/* Title text for low maximum basal rate warning */
+"Low Maximum Basal Rate" = "最大基础率过低";
+
+/* Title text for low maximum bolus warning */
+"Low Maximum Bolus" = "最大胰岛素注射量过低";
+
+/* Title text for the low pre-meal value warning */
+"Low Pre-Meal Value" = "餐前值过低";
+
+/* Title text for the low workout value warning */
+"Low Workout Value" = "运动值过低";
+
+/* Alert title for confirming basal rates outside the recommended range */
+"Save Basal Rates?" = "保存基础率？";
+
+/* Alert title for confirming carb ratios outside the recommended range */
+"Save Carb Ratios?" = "保存碳水化合物比例？";
+
+/* Alert title for confirming correction ranges outside the recommended range */
+"Save Correction Range(s)?" = "保存校正范围？";
+
+/* Alert title for confirming delivery limits outside the recommended range */
+"Save Delivery Limits?" = "保存输送限制？";
+
+/* Alert title for confirming a glucose safety limit outside the recommended range */
+"Save Glucose Safety Limit?" = "保存血糖安全限制？";
+
+/* Alert title for confirming insulin sensitivities outside the recommended range */
+"Save Insulin Sensitivities?" = "保存胰岛素敏感性？";
+
+/* Alert title for confirming pre-meal range overrides outside the recommended range */
+"Save Pre-Meal Range?" = "保存餐前范围？";
+
+/* Alert title for confirming workout range overrides outside the recommended range */
+"Save Workout Range?" = "保存运动范围？";
+
+/* The button text during saving on a configuration page */
+"Saving..." = "正在保存...";
+
+/* Description of how to add a ratio */
+"You can add different carb ratios for different times of day by using the ➕." = "您可以使用 ➕ 为一天中的不同时间添加不同的碳水化合物比例。";
+
+/* Description of how to add a ratio */
+"You can add different insulin sensitivities for different times of day by using the ➕." = "您可以使用 ➕ 为一天中的不同时间添加不同的胰岛素敏感性。";
+
+/* Description of how to add a configuration range */
+"You can add different ranges for different times of day by using the ➕." = "您可以使用 ➕ 为一天中的不同时间添加不同的范围。";
+
+/* Description of how to add a range */
+"You can add entries for different times of day by using the ➕." = "您可以使用 ➕ 为一天中的不同时间添加条目。";
+
+/* Information about insulin model (1: app name) */
+"You can choose how %1$@ measures rapid acting insulin's peak activity according to one of these two insulin models." = "您可以选择 %1$@ 如何根据以下两种胰岛素模型之一来测量速效胰岛素的峰值活性。";
+
+/* Description of how to edit setting */
+"You can edit a setting by tapping into any line item." = "您可以点击任何项目来编辑设置。";
+
+/* Description of how to edit setting */
+"You can edit the setting by tapping into the line item." = "您可以点击项目来编辑设置。";
+
+/* Information about basal rates */
+"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "您的基础胰岛素率是您希望每小时使用的单位数，以满足您的基础胰岛素需求。";
+
+/* Button text to close a modal
+   Text to close informational page */
+"Close" = "关闭";
+
+/* Details for missing data error when carb effects are missing */
+"Carb effects" = "碳水化合物效应";
+
+/* The title of the carb ratios schedule screen
+   The title text for the carb ratio schedule */
+"Carb Ratios" = "碳水化合物比例";
+
+/* Title for mini-modal to add a new schedule entry */
+"New Entry" = "新增";
+
+/* Title text for the zero basal rate warning */
+"No Basal Insulin" = "无基础胰岛素";
+
+/*Button text to confirm adding a new schedule item*/
+"Add"="添加";
+
+/* Information about maximum basal rate (1: app name) */
+"Maximum Basal Rate is the maximum automatically adjusted basal rate that %1$@ is allowed to enact to help reach your correction range." = "最大基础率是 %1$@ 允许执行的最大自动调整基础率，以帮助达到您的校正范围。";
+
+/* Information about maximum bolus (1: app name) */
+"Maximum Bolus is the highest bolus amount that you will allow %1$@ to recommend at one time to cover carbs or bring down high glucose." = "最大胰岛素注射量是您允许 %1$@ 一次推荐的最高注射量，用于覆盖碳水化合物或降低高血糖。";
+
+/* Information about maximum automated insulin on board (1: app name) */
+"This setting will also determine a safety limit for automatic dosing. %1$@ will limit automatic delivery to keep the amount of active insulin below twice your maximum bolus." = "此设置还将确定自动给药的安全限制。%1$@ 将限制自动输送，以使活性胰岛素的量保持在最大胰岛素注射量的两倍以下。";
+
+/* Disclaimer */
+"Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." = "请与您的医疗提供者合作，选择一个高于您最高计划基础率的值，但该值可以根据您的舒适程度选择保守或激进。";
+
+/* Information about typical maximum basal rates */
+"Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "有些用户选择高于其最高计划基础率2倍、3倍或4倍的值。";
+
+/* Title text for crossed thresholds guardrail warning */
+"Delivery Limits" = "输注限制";
+
+/* Information about delivery limits */
+"Delivery Limits are safety guardrails for your insulin delivery." = "输注限制是胰岛素输送的安全范围。";
+
+/* The text for the custom preset disable button */
+"Disable Preset" = "禁用预设";
+
+/* Description of insulin sensitivity factor */
+"Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin." = "您的胰岛素敏感性因子（ISF）是预期每单位胰岛素引起的血糖下降值。";
+
+/* Information about max number of basal rates (1: app name) (2: maximum schedule entry count) */
+"%1$@ supports 1 to %2$@ rates per day." = "%1$@ 支持每天 1 到 %2$@ 个基础率。";
+
+/* Information about basal rate scheduling */
+"The schedule starts at midnight and cannot contain a rate of 0 U/hr." = "计划从午夜开始，且不能包含 0 U/小时的基础率。";
+
+/* Text for edit button
+   The title for the enabled custom preset editing screen */
+"Edit" = "编辑";
+
+/* Text for dismiss button
+   Text for done button
+   Video player done button label */
+"Done" = "完成";
+
+/* Title for support section */
+"Support" = "支持";
+
+/* Support button for Therapy Settings */
+"Get help with Therapy Settings" = "获取治疗设置帮助";
 

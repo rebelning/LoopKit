@@ -35,6 +35,9 @@
 /* The title of the button to remove the credentials for a service */
 "Delete Account" = "Delete Account";
 
+/* Delete values for Pre-Meal, inactivates Pre-Meal icon*/
+"Delete" = "Delete";
+
 /* Describes a percentage decrease in overall insulin needs */
 "Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "Basal, bolus, and correction insulin dose amounts are decreased by %@%%.";
 
@@ -250,3 +253,192 @@
 
 /* Title for the workout override range */
 "Workout" = "Workout";
+
+/* Therapy Settings screen title */
+"Therapy Settings" = "Therapy Settings";
+
+/* Title text for glucose safety limit */
+"Glucose Safety Limit" = "Glucose Safety Limit";
+
+/* Information about target range */
+"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.";
+
+/* Information about differences between target range and correction range */
+"A Correction Range is different. This will be a narrower range." = "A Correction Range is different. This will be a narrower range.";
+
+/* Information about correction range format (1: app name) */
+"For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." = "For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin.";
+
+/* Disclaimer */
+"Your healthcare provider can help you choose a Correction Range that's right for you." = "Your healthcare provider can help you choose a Correction Range that's right for you.";
+
+/* Guardrail info text format */
+"It can be set as low as %1$@. It can be set as high as %2$@." = "It can be set as low as %1$@. It can be set as high as %2$@.";
+
+/* Information about pre-meal range format (1: app name) */
+"Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button." = "Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button.";
+
+
+/* Information about pre-meal range relative to correction range
+   Information about workout range relative to correction range */
+"This will typically be" = "This will typically be";
+
+/*Information about pre-meal range relative to correction range*/
+"than your Correction Range." = "than your Correction Range.";
+
+/*Information about pre-meal range relative to correction range*/
+" lower "=" lower ";
+
+/*Information about workout range relative to correction range*/
+" higher "=" higher ";
+
+/* Lower bound pre-meal information text */
+"your Glucose Safety Limit" = "your Glucose Safety Limit";
+
+/* Descriptive text for pre-meal correction range override */
+"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.";
+
+/* Title text for multi-value pre-meal value warning */
+"Pre-Meal Values" = "Pre-Meal Values";
+
+/* Title text for multi-value workout value warning */
+"Workout Values" = "Workout Values";
+
+/* Title text for the low insulin sensitivity warning */
+"Low Insulin Sensitivity" = "Low Insulin Sensitivity";
+
+/* Title text for low maximum basal rate warning */
+"Low Maximum Basal Rate" = "Low Maximum Basal Rate";
+
+/* Title text for low maximum bolus warning */
+"Low Maximum Bolus" = "Low Maximum Bolus";
+
+/* Title text for the low pre-meal value warning */
+"Low Pre-Meal Value" = "Low Pre-Meal Value";
+
+/* Title text for the low workout value warning */
+"Low Workout Value" = "Low Workout Value";
+
+/* Alert title for confirming basal rates outside the recommended range */
+"Save Basal Rates?" = "Save Basal Rates?";
+
+/* Alert title for confirming carb ratios outside the recommended range */
+"Save Carb Ratios?" = "Save Carb Ratios?";
+
+/* Alert title for confirming correction ranges outside the recommended range */
+"Save Correction Range(s)?" = "Save Correction Range(s)?";
+
+/* Alert title for confirming delivery limits outside the recommended range */
+"Save Delivery Limits?" = "Save Delivery Limits?";
+
+/* Alert title for confirming a glucose safety limit outside the recommended range */
+"Save Glucose Safety Limit?" = "Save Glucose Safety Limit?";
+
+/* Alert title for confirming insulin sensitivities outside the recommended range */
+"Save Insulin Sensitivities?" = "Save Insulin Sensitivities?";
+
+/* Alert title for confirming pre-meal range overrides outside the recommended range */
+"Save Pre-Meal Range?" = "Save Pre-Meal Range?";
+
+/* Alert title for confirming workout range overrides outside the recommended range */
+"Save Workout Range?" = "Save Workout Range?";
+
+/* The button text during saving on a configuration page */
+"Saving..." = "Saving...";
+
+/* Description of how to add a ratio */
+"You can add different carb ratios for different times of day by using the ➕." = "You can add different carb ratios for different times of day by using the ➕.";
+
+/* Description of how to add a ratio */
+"You can add different insulin sensitivities for different times of day by using the ➕." = "You can add different insulin sensitivities for different times of day by using the ➕.";
+
+/* Description of how to add a configuration range */
+"You can add different ranges for different times of day by using the ➕." = "You can add different ranges for different times of day by using the ➕.";
+
+/* Description of how to add a range */
+"You can add entries for different times of day by using the ➕." = "You can add entries for different times of day by using the ➕.";
+
+/* Information about insulin model (1: app name) */
+"You can choose how %1$@ measures rapid acting insulin's peak activity according to one of these two insulin models." = "You can choose how %1$@ measures rapid acting insulin's peak activity according to one of these two insulin models.";
+
+/* Description of how to edit setting */
+"You can edit a setting by tapping into any line item." = "You can edit a setting by tapping into any line item.";
+
+/* Description of how to edit setting */
+"You can edit the setting by tapping into the line item." = "You can edit the setting by tapping into the line item.";
+
+/* Information about basal rates */
+"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.";
+
+
+/* Button text to close a modal
+   Text to close informational page */
+"Close" = "Close";
+
+/* Details for missing data error when carb effects are missing */
+"Carb effects" = "Carb effects";
+
+/* The title of the carb ratios schedule screen
+   The title text for the carb ratio schedule */
+"Carb Ratios" = "Carb Ratios";
+
+/* Title for mini-modal to add a new schedule entry */
+"New Entry" = "New Entry";
+
+/* Title text for the zero basal rate warning */
+"No Basal Insulin" = "No Basal Insulin";
+
+/*Button text to confirm adding a new schedule item*/
+"Add"="Add";
+
+/* Information about maximum basal rate (1: app name) */
+"Maximum Basal Rate is the maximum automatically adjusted basal rate that %1$@ is allowed to enact to help reach your correction range." = "Maximum Basal Rate is the maximum automatically adjusted basal rate that %1$@ is allowed to enact to help reach your correction range.";
+
+
+/* Information about maximum bolus (1: app name) */
+"Maximum Bolus is the highest bolus amount that you will allow %1$@ to recommend at one time to cover carbs or bring down high glucose." = "Maximum Bolus is the highest bolus amount that you will allow %1$@ to recommend at one time to cover carbs or bring down high glucose.";
+
+/* Information about maximum automated insulin on board (1: app name) */
+"This setting will also determine a safety limit for automatic dosing. %1$@ will limit automatic delivery to keep the amount of active insulin below twice your maximum bolus." = "This setting will also determine a safety limit for automatic dosing. %1$@ will limit automatic delivery to keep the amount of active insulin below twice your maximum bolus.";
+
+/* Disclaimer */
+"Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." = "Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable.";
+
+/* Information about typical maximum basal rates */
+"Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.";
+
+/* Title text for crossed thresholds guardrail warning */
+"Delivery Limits" = "Delivery Limits";
+
+/* Information about delivery limits */
+"Delivery Limits are safety guardrails for your insulin delivery." = "Delivery Limits are safety guardrails for your insulin delivery.";
+
+/* The text for the custom preset disable button */
+"Disable Preset" = "Disable Preset";
+
+/* Description of insulin sensitivity factor */
+"Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin." = "Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin.";
+
+/* Information about max number of basal rates (1: app name) (2: maximum schedule entry count) */
+"%1$@ supports 1 to %2$@ rates per day." = "%1$@ supports 1 to %2$@ rates per day.";
+
+/* Information about basal rate scheduling */
+"The schedule starts at midnight and cannot contain a rate of 0 U/hr." = "The schedule starts at midnight and cannot contain a rate of 0 U/hr.";
+
+/* Text for edit button
+   The title for the enabled custom preset editing screen */
+"Edit" = "Edit";
+
+/* Text for dismiss button
+   Text for done button
+   Video player done button label */
+"Done" = "Done";
+
+/* Title for support section */
+"Support" = "Support";
+
+/* Support button for Therapy Settings */
+"Get help with Therapy Settings" = "Get help with Therapy Settings";
+
+
+
