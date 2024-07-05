@@ -440,5 +440,9 @@
 /* Support button for Therapy Settings */
 "Get help with Therapy Settings" = "Get help with Therapy Settings";
 
+/*Label for displaying time-related information*/
+"Time"="Time";
 
+/* No comment provided by engineer. */
+"Food Type" = "Food Type";
 

@@ -446,3 +446,11 @@
 /* Support button for Therapy Settings */
 "Get help with Therapy Settings" = "获取治疗设置帮助";
 
+/*Label for displaying time-related information*/
+"Time"="时间";
+
+/* Label for displaying food type information */
+"Food Type" = "食物类型";
+
+
+
