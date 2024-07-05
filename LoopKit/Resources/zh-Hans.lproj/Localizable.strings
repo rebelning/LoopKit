@@ -131,7 +131,44 @@
 /* Title text for carb ratios */
 "Carb Ratios" = "碳水化合物比例";
 
+/* Brand name for novolog insulin type */
+"Novolog" = "诺和诺德(Novolog)";
 
+/* Title for Novolog insulin type */
+"Novolog (insulin aspart)" = "诺和诺德(Novolog)（门冬胰岛素）";
 
+/* Description for novolog insulin type */
+"NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk" = "诺和诺德（门冬胰岛素）是一种由诺和诺德公司生产的速效胰岛素。";
 
+/* Brand name for humalog insulin type */
+"Humalog" = "优泌乐(Humalog)";
+
+/* Title for Humalog insulin type */
+"Humalog (insulin lispro)" = "优泌乐(Humalog)（胰岛素利司扑）";
+
+/* Description for humalog insulin type */
+"Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly" = "优泌乐（胰岛素利司扑）是一种由礼来公司生产的速效胰岛素。";
+
+/* Brand name for apidra insulin type */
+"Apidra" = "安达(Apidra)";
+
+/* Title for Apidra insulin type */
+"Apidra (insulin glulisine)" = "安达(Apidra)（胰岛素艾赛波）";
+
+/* Description for apidra insulin type */
+"Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis " = "安达（胰岛素艾赛波）是一种由赛诺菲安万特公司生产的速效胰岛素。";
+
+/* Brand name for fiasp insulin type
+   Title for Fiasp insulin type */
+"Fiasp" = "速秀霖(Fiasp)";
+
+/* Description for fiasp insulin type */
+"Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk" = "速秀霖是一种含有烟酰胺（维生素B3）的餐时胰岛素门冬胰岛素制剂，由诺和诺德公司生产。";
+
+/* Brand name for lyumjev insulin type
+   Title for Lyumjev insulin type */
+"Lyumjev" = "路美佑(Lyumjev)";
+
+/* Description for lyumjev insulin type */
+"Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly" = "路美佑是一种含有柠檬酸和曲前列尼尔的餐时胰岛素利司扑制剂，由礼来公司生产。";
 

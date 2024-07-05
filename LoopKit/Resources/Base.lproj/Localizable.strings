@@ -141,3 +141,44 @@
 /* Title text for carb ratios */
 "Carb Ratios" = "Carb Ratios";
 
+/* Brand name for novolog insulin type */
+"Novolog" = "Novolog";
+
+/* Title for Novolog insulin type */
+"Novolog (insulin aspart)" = "Novolog (insulin aspart)";
+
+/* Description for novolog insulin type */
+"NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk" = "NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk.";
+
+/* Brand name for humalog insulin type */
+"Humalog" = "Humalog";
+
+/* Title for Humalog insulin type */
+"Humalog (insulin lispro)" = "Humalog (insulin lispro)";
+
+/* Description for humalog insulin type */
+"Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly" = "Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly";
+
+/* Brand name for apidra insulin type */
+"Apidra" = "Apidra";
+
+/* Title for Apidra insulin type */
+"Apidra (insulin glulisine)" = "Apidra (insulin glulisine)";
+
+/* Description for apidra insulin type */
+"Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis " = "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis ";
+
+/* Brand name for fiasp insulin type
+   Title for Fiasp insulin type */
+"Fiasp" = "Fiasp";
+
+/* Description for fiasp insulin type */
+"Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk" = "Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk";
+
+/* Brand name for lyumjev insulin type
+   Title for Lyumjev insulin type */
+"Lyumjev" = "Lyumjev";
+
+/* Description for lyumjev insulin type */
+"Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly" = "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly";
+
