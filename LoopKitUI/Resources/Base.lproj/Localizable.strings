@@ -446,3 +446,31 @@
 /* No comment provided by engineer. */
 "Food Type" = "Food Type";
 
+/* The text indicating Total for Daily Schedule Basal */
+"Total" = "Total";
+
+/* Premeal override preset title */
+"🍽 Pre-Meal" = "🍽 Pre-Meal";
+
+/* The title of the action used when rejecting the the amount of carbohydrates entered. */
+"No, edit amount" = "No, edit amount";
+
+/* The title of the cell indicating a generic custom preset is enabled */
+"Custom Preset" = "Custom Preset";
+
+/* The text for the override history */
+"History" = "History";
+
+/* Title for override history view */
+"Override History" = "Override History";
+
+/* Footer text for editing an enabled custom preset (1: preset name) */
+"Edits persist only until the preset is disabled. The default settings of %@ will not be affected." = "Edits persist only until the preset is disabled. The default settings of %@ will not be affected.";
+
+/* The button text for enabling a temporary override */
+"Enable" = "Enable";
+
+
+
+
+

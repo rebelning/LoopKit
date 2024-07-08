@@ -144,31 +144,36 @@
 "Humalog" = "优泌乐(Humalog)";
 
 /* Title for Humalog insulin type */
-"Humalog (insulin lispro)" = "优泌乐(Humalog)（胰岛素利司扑）";
+"Humalog (insulin lispro)" = "优泌乐(Humalog)（赖浦胰岛素）";
 
 /* Description for humalog insulin type */
-"Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly" = "优泌乐（胰岛素利司扑）是一种由礼来公司生产的速效胰岛素。";
+"Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly" = "优泌乐（赖浦胰岛素）是一种由礼来公司生产的速效胰岛素。";
 
 /* Brand name for apidra insulin type */
-"Apidra" = "安达(Apidra)";
+"Apidra" = "艾倍得(Apidra)";
 
 /* Title for Apidra insulin type */
-"Apidra (insulin glulisine)" = "安达(Apidra)（胰岛素艾赛波）";
+"Apidra (insulin glulisine)" = "艾倍得(Apidra)（艾倍得胰岛素）";
 
 /* Description for apidra insulin type */
-"Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis " = "安达（胰岛素艾赛波）是一种由赛诺菲安万特公司生产的速效胰岛素。";
+"Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis " = "艾倍得（胰岛素艾倍得）是一种由赛诺菲安万特公司生产的速效胰岛素。";
 
 /* Brand name for fiasp insulin type
    Title for Fiasp insulin type */
-"Fiasp" = "速秀霖(Fiasp)";
+"Fiasp" = "超速效门冬(Fiasp)";
 
 /* Description for fiasp insulin type */
-"Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk" = "速秀霖是一种含有烟酰胺（维生素B3）的餐时胰岛素门冬胰岛素制剂，由诺和诺德公司生产。";
+"Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk" = "超速效门冬是一种含有烟酰胺（维生素B3）的餐时胰岛素门冬胰岛素制剂，由诺和诺德公司生产。";
 
 /* Brand name for lyumjev insulin type
    Title for Lyumjev insulin type */
-"Lyumjev" = "路美佑(Lyumjev)";
+"Lyumjev" = "超速效赖浦(Lyumjev)";
 
 /* Description for lyumjev insulin type */
-"Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly" = "路美佑是一种含有柠檬酸和曲前列尼尔的餐时胰岛素利司扑制剂，由礼来公司生产。";
+"Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly" = "超速效赖浦是一种含有柠檬酸和曲前列尼尔的餐时胰岛素利司扑制剂，由礼来公司生产。";
 
+/* Title for sheet to enable/disable pre-meal on watch */
+"Pre-Meal" = "餐前";
+
+/* Format for correction range override therapy setting card */
+"%@ Range" = "%@ 范围";

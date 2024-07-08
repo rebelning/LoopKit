@@ -452,5 +452,30 @@
 /* Label for displaying food type information */
 "Food Type" = "食物类型";
 
+/* The text indicating Total for Daily Schedule Basal */
+"Total" = "总计";
+
+/* Premeal override preset title */
+"🍽 Pre-Meal" = "🍽 餐前";
+
+/* The title of the action used when rejecting the the amount of carbohydrates entered. */
+"No, edit amount" = "不，编辑数量";
+
+/* The title of the cell indicating a generic custom preset is enabled */
+"Custom Preset" = "自定义预设";
+
+/* The text for the override history */
+"History" = "历史记录";
+
+/* Title for override history view */
+"Override History" = "覆盖历史";
+
+/* Footer text for editing an enabled custom preset (1: preset name) */
+"Edits persist only until the preset is disabled. The default settings of %@ will not be affected." = "编辑仅在预设启用期间有效。%@ 的默认设置不会受到影响。";
+
+/* The button text for enabling a temporary override */
+"Enable" = "启用";
+
+
 
 

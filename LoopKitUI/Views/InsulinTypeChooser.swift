@@ -33,7 +33,7 @@ public struct InsulinTypeChooser: View {
                             .renderingMode(.template)
                             .resizable()
                             .scaledToFit()
-                            .foregroundColor(Color(frameworkColor: insulinType.brandName))
+                            .foregroundColor(Color(frameworkColor: insulinType.brandIconName))
                         Image(frameworkImage: "vial")
                             .resizable()
                             .scaledToFit()

@@ -182,3 +182,9 @@
 /* Description for lyumjev insulin type */
 "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly" = "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly";
 
+/* Title for sheet to enable/disable pre-meal on watch */
+"Pre-Meal" = "Pre-Meal";
+
+/* Format for correction range override therapy setting card */
+"%@ Range" = "%@ Range";
+

@@ -50,6 +50,23 @@ public enum InsulinType: Int, Codable, CaseIterable {
         }
     }
     
+    public var brandIconName: String {
+        switch self {
+        case .novolog:
+            return "Novolog"
+        case .humalog:
+            return "Humalog"
+        case .apidra:
+            return "Apidra"
+        case .fiasp:
+            return "Fiasp"
+        case .lyumjev:
+            return "Lyumjev"
+        case .afrezza:
+            return "Afrezza"
+        }
+    }
+    
     public var description: String {
         switch self {
         case .novolog:
