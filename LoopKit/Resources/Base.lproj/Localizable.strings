@@ -188,3 +188,8 @@
 /* Format for correction range override therapy setting card */
 "%@ Range" = "%@ Range";
 
+/* Segmented button title for insulin delivery log event history */
+"Event History" = "Event History";
+
+"Non-Pump Insulin" = "Non-Pump Insulin";
+

@@ -177,3 +177,8 @@
 
 /* Format for correction range override therapy setting card */
 "%@ Range" = "%@ 范围";
+
+/* Segmented button title for insulin delivery log event history */
+"Event History" = "事件历史";
+
+"Non-Pump Insulin" = "非泵胰岛素";
