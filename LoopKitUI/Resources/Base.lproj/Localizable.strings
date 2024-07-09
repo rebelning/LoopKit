@@ -473,6 +473,51 @@
 /* The button text for confirming the setting */
 "Confirm Setting" = "Confirm Setting";
 
+/* title for summary description section */
+"Review and Save Settings" = "Review and Save Settings";
 
+/* Description of how to interact with summary screen */
+"Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." = "Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.";
+
+/* Description of how to interact with summary screen */
+"If these settings look good to you, tap Save Settings to continue." = "If these settings look good to you, tap Save Settings to continue.";
+
+/* Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
+   Text for go back action on confirmation alert */
+"Go Back" = "Go Back";
+
+
+/* Back navigation button title */
+"Back" = "Back";
+
+/* Title text for the high basal rate warning */
+"High Basal Rate" = "High Basal Rate";
+
+/* Title text for the high carb ratio warning */
+"High Carb Ratio" = "High Carb Ratio";
+
+/* Title text for the high correction value warning */
+"High Correction Value" = "High Correction Value";
+
+/* Title text for the high glucose safety limit warning */
+"High Glucose Safety Limit" = "High Glucose Safety Limit";
+
+/* Title text for the high insulin sensitivity warning */
+"High Insulin Sensitivity" = "High Insulin Sensitivity";
+
+/* Title text for high maximum basal rate warning */
+"High Maximum Basal Rate" = "High Maximum Basal Rate";
+
+/* Title text for high maximum bolus warning */
+"High Maximum Bolus" = "High Maximum Bolus";
+
+/* Title text for the low pre-meal value warning */
+"High Pre-Meal Value" = "High Pre-Meal Value";
+
+/* Title text for the high workout value warning */
+"High Workout Value" = "High Workout Value";
+
+/* Descriptive text for workout correction range override */
+"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.";
 
 

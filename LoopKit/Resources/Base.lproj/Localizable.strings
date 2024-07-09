@@ -193,3 +193,31 @@
 
 "Non-Pump Insulin" = "Non-Pump Insulin";
 
+/* Descriptive text for saving settings outside the recommended range */
+"One or more of the values you have entered is outside of what is typically recommended for most people." = "One or more of the values you have entered is outside of what is typically recommended for most people.";
+
+/* Descriptive text for fast acting insulin model (1: app name) */
+"For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity." = "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity.";
+
+/* Descriptive text for guardrail high value warning for schedule interface */
+"A value you have entered is higher than what is typically recommended for most people." = "A value you have entered is higher than what is typically recommended for most people.";
+
+/* Descriptive text for guardrail low value warning for schedule interface */
+"A value you have entered is lower than what is typically recommended for most people." = "A value you have entered is lower than what is typically recommended for most people.";
+
+/* Descriptive text for workout correction range override */
+"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.";
+
+/* Descriptive text for guardrail high value warning */
+"The value you have entered is higher than what is typically recommended for most people." = "The value you have entered is higher than what is typically recommended for most people.";
+
+/* Descriptive text for guardrail low value warning */
+"The value you have entered is lower than what is typically recommended for most people." = "The value you have entered is lower than what is typically recommended for most people.";
+
+/* Descriptive text for guardrail high value warning */
+"The values you have entered are outside of what is typically recommended for most people." = "The values you have entered are outside of what is typically recommended for most people.";
+
+/* Descriptive text for guardrail high value warning for schedule interface */
+"Some of the values you have entered are outside of what is typically recommended for most people." = "Some of the values you have entered are outside of what is typically recommended for most people.";
+
+

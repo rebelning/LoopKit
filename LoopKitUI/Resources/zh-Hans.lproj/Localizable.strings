@@ -479,4 +479,50 @@
 /* The button text for confirming the setting */
 "Confirm Setting" = "确认设置";
 
+/* title for summary description section */
+"Review and Save Settings" = "查看并保存设置";
+
+/* Description of how to interact with summary screen */
+"Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." = "请查看以下治疗设置。如果您想编辑这些设置，请点击“返回”返回到对应的屏幕。";
+
+/* Description of how to interact with summary screen */
+"If these settings look good to you, tap Save Settings to continue." = "如果这些设置看起来不错，请点击“保存设置”继续。";
+
+/* Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
+   Text for go back action on confirmation alert */
+"Go Back" = "返回";
+
+
+/* Back navigation button title */
+"Back" = "返回";
+
+/* Title text for the high basal rate warning */
+"High Basal Rate" = "基础率过高";
+
+/* Title text for the high carb ratio warning */
+"High Carb Ratio" = "碳水化合物比例过高";
+
+/* Title text for the high correction value warning */
+"High Correction Value" = "校正值过高";
+
+/* Title text for the high glucose safety limit warning */
+"High Glucose Safety Limit" = "血糖安全限值过高";
+
+/* Title text for the high insulin sensitivity warning */
+"High Insulin Sensitivity" = "胰岛素敏感性过高";
+
+/* Title text for high maximum basal rate warning */
+"High Maximum Basal Rate" = "最大基础率过高";
+
+/* Title text for high maximum bolus warning */
+"High Maximum Bolus" = "最大胰岛素注射量过高";
+
+/* Title text for the low pre-meal value warning */
+"High Pre-Meal Value" = "餐前值过高";
+
+/* Title text for the high workout value warning */
+"High Workout Value" = "运动值过高";
+
+/* Descriptive text for workout correction range override */
+"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "在体育活动前、期间或之后临时提高您的血糖目标，以降低低血糖事件的风险。";
 

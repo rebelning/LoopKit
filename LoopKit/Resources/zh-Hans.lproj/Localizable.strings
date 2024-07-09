@@ -182,3 +182,29 @@
 "Event History" = "事件历史";
 
 "Non-Pump Insulin" = "非泵胰岛素";
+
+/* Descriptive text for saving settings outside the recommended range */
+"One or more of the values you have entered is outside of what is typically recommended for most people." = "您输入的一个或多个值超出了大多数人通常推荐的范围。";
+
+/* Descriptive text for fast acting insulin model (1: app name) */
+"For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity." = "对于速效胰岛素，%1$@ 假定其活性持续时间为 6 小时。您可以选择不同的模型来表示峰值活动时间。";
+
+
+/* Descriptive text for guardrail high value warning for schedule interface */
+"A value you have entered is higher than what is typically recommended for most people." = "您输入的值高于大多数人通常推荐的值。";
+
+/* Descriptive text for guardrail low value warning for schedule interface */
+"A value you have entered is lower than what is typically recommended for most people." = "您输入的值低于大多数人通常推荐的值。";
+
+
+/* Descriptive text for workout correction range override */
+"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "在身体活动前、期间或之后，临时提高您的血糖目标，以降低低血糖事件的风险。";
+
+/* Descriptive text for guardrail high value warning */
+"The value you have entered is higher than what is typically recommended for most people." = "您输入的值高于大多数人通常推荐的值。";
+
+/* Descriptive text for guardrail low value warning */
+"The value you have entered is lower than what is typically recommended for most people." = "您输入的值低于大多数人通常推荐的值。";
+
+/* Descriptive text for guardrail high value warning */
+"The values you have entered are outside of what is typically recommended for most people." = "您输入的值超出了大多数人通常推荐的范围。";
