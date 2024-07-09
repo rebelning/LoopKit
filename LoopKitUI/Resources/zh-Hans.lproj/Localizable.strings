@@ -476,6 +476,7 @@
 /* The button text for enabling a temporary override */
 "Enable" = "启用";
 
-
+/* The button text for confirming the setting */
+"Confirm Setting" = "确认设置";
 
 

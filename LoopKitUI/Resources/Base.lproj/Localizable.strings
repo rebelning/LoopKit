@@ -470,6 +470,8 @@
 /* The button text for enabling a temporary override */
 "Enable" = "Enable";
 
+/* The button text for confirming the setting */
+"Confirm Setting" = "Confirm Setting";
 
 
 
