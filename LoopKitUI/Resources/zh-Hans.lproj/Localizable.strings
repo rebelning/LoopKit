@@ -526,3 +526,4 @@
 /* Descriptive text for workout correction range override */
 "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "在体育活动前、期间或之后临时提高您的血糖目标，以降低低血糖事件的风险。";
 
+"com.loudnate.LoopKit.errorAlertActionTitle"="确定";

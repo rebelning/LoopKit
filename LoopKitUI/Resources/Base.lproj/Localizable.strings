@@ -520,4 +520,4 @@
 /* Descriptive text for workout correction range override */
 "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.";
 
-
+"com.loudnate.LoopKit.errorAlertActionTitle"="OK";
