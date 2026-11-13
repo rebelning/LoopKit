@@ -248,7 +248,9 @@ class InsulinDeliveryStoreTests: InsulinDeliveryStoreTestsBase {
 
 
         let getDoseEntries2Completion = expectation(description: "getDoseEntries2")
-        insulinDeliveryStore.getDoseEntries(start: Date(timeIntervalSinceNow: -.minutes(3.75)), end: Date(timeIntervalSinceNow: -.minutes(1.75))) { result in
+        // Anchor the query to the fixtures, which XCTest may create well before this test runs.
+        // The window overlaps entry3 and entry2 without depending on suite startup duration.
+        insulinDeliveryStore.getDoseEntries(start: entry3.endDate.addingTimeInterval(-15), end: entry2.startDate.addingTimeInterval(15)) { result in
             switch result {
             case .failure(let error):
                 XCTFail("Unexpected failure: \(error)")
