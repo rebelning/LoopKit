@@ -40,7 +40,7 @@ public struct FoodTypeRow: View {
     
     public var body: some View {
         HStack {
-            Text(LocalizedString("Food Type", comment: "Label for displaying the type of food"))
+            Text(LocalizedString("Food Type", comment: "Label for the food type row on the carb entry screen"))
                 .foregroundColor(.primary)
             
             Spacer()
