@@ -926,6 +926,7 @@
 		E9F54FBA258052130034795E /* InsulinType.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F54F5D25802D5E0034795E /* InsulinType.swift */; };
 		E9F54FC62581C50D0034795E /* ExpandableDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F54FC52581C50C0034795E /* ExpandableDatePicker.swift */; };
 		F2C000000000000000000001 /* DisplayGlucosePreferenceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C000000000000000000002 /* DisplayGlucosePreferenceTests.swift */; };
+		9815AA3283349694F2449777 /* CGMHeartbeatScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5E026693186A5034CEED92 /* CGMHeartbeatScheduler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -1864,6 +1865,7 @@
 		E9F54F5D25802D5E0034795E /* InsulinType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsulinType.swift; sourceTree = "<group>"; };
 		E9F54FC52581C50C0034795E /* ExpandableDatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableDatePicker.swift; sourceTree = "<group>"; };
 		F2C000000000000000000002 /* DisplayGlucosePreferenceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayGlucosePreferenceTests.swift; sourceTree = "<group>"; };
+		8C5E026693186A5034CEED92 /* CGMHeartbeatScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGMHeartbeatScheduler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -3059,6 +3061,7 @@
 				89AC792C224C781100B8E9BA /* DoseProgressReporter.swift */,
 				89AC792D224C781100B8E9BA /* DoseProgressTimerEstimator.swift */,
 				432CF87220D774220066B889 /* PumpManager.swift */,
+				8C5E026693186A5034CEED92 /* CGMHeartbeatScheduler.swift */,
 				43FB610620DDF19B002B996B /* PumpManagerError.swift */,
 				43FB60E820DCBE64002B996B /* PumpManagerStatus.swift */,
 			);
@@ -4165,6 +4168,7 @@
 				43F5034B21051FCE009FA89A /* KeychainManager.swift in Sources */,
 				891A3FD5224B047200378B27 /* DailyQuantitySchedule+Override.swift in Sources */,
 				432CF87320D774220066B889 /* PumpManager.swift in Sources */,
+				9815AA3283349694F2449777 /* CGMHeartbeatScheduler.swift in Sources */,
 				43D8FE021C7290350073BE78 /* SampleValue.swift in Sources */,
 				43D9888B1C87E47800DA4467 /* GlucoseValue.swift in Sources */,
 				A967D94924F99B6A00CDDF8A /* DataOutputStream.swift in Sources */,
